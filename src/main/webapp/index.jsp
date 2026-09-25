@@ -24,7 +24,7 @@
             <li class="nav-items"><a href="#">TV</a></li>
             <li class="nav-items"><a href="#">CINEMAS</a></li>
             <li class="nav-items"><a href="#">  ASHWINI</a></li>
-            <li class="nav-items"><a href="#">G1</a></li>
+            <li class="nav-items"><a href="#">m1</a></li>
             <li class="nav-items"><a href="#">Disney+</a></li>
             <li class="icon"><a href="#"></a></li>
         </ul>
